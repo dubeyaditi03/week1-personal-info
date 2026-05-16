@@ -1,0 +1,7 @@
+Test Case 1:
+Food: Pizza
+Color: Blue
+
+Test Case 2:
+Food: Burger
+Color: Black
