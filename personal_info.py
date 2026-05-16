@@ -7,10 +7,10 @@ print("    PERSONAL INFORMATION MANAGER")
 print("=" * 40)
 
 # Static Information
-name = "Anurag"
-age = 20
+name = "Aditi Dubey"
+age = 21
 city = "Pune"
-hobby = "Gaming"
+hobby = "Singing"
 
 # User Input
 print("\nPlease tell me about yourself:")
