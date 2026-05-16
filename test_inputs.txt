@@ -3,5 +3,5 @@ Food: Pizza
 Color: Blue
 
 Test Case 2:
-Food: Burger
-Color: Black
+Food: Sandwitch
+Color: Purple
